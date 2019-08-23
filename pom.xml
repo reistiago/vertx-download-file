@@ -12,7 +12,7 @@
     <properties>
         <!-- the main class -->
         <exec.mainClass>com.reistiago.vertx.file.download.Server</exec.mainClass>
-        <vertx.version>3.4.2</vertx.version>
+        <vertx.version>3.8.1</vertx.version>
     </properties>
 
     <dependencies>
